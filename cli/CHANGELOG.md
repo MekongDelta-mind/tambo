@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.49.0](https://github.com/tambo-ai/tambo/compare/tambo-v0.48.0...tambo-v0.49.0) (2026-01-24)
+
+
+### Features
+
+* **cli:** add Rush.js package manager support ([#1825](https://github.com/tambo-ai/tambo/issues/1825)) ([8d004c5](https://github.com/tambo-ai/tambo/commit/8d004c5450cf9b5996d6f5d07d21ca656aa8580d))
+
+
+### Miscellaneous Chores
+
+* **react:** bump to new @tambo-ai/typescript-sdk ([#1864](https://github.com/tambo-ai/tambo/issues/1864)) ([7643415](https://github.com/tambo-ai/tambo/commit/76434157aeaa2f4fb6501702403262025614931b))
+* **sdk:** Bump again: get SSE streaming types ([#1870](https://github.com/tambo-ai/tambo/issues/1870)) ([e6fbb44](https://github.com/tambo-ai/tambo/commit/e6fbb4432bc3ba07fe8b660206a1c514ffb98ea8))
+
+
+### Tests
+
+* **cli:** add tests for critical utility modules ([#1858](https://github.com/tambo-ai/tambo/issues/1858)) ([613b445](https://github.com/tambo-ai/tambo/commit/613b445d650e3ac04e6537fc16b9ea2775844a6a))
+
 ## [0.48.0](https://github.com/tambo-ai/tambo/compare/tambo-v0.47.0...tambo-v0.48.0) (2026-01-21)
 
 
