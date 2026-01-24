@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.128.1](https://github.com/tambo-ai/tambo/compare/web-v0.128.0...web-v0.128.1) (2026-01-24)
+
+
+### Documentation
+
+* **react-sdk:** remove dependency on zod ([#1850](https://github.com/tambo-ai/tambo/issues/1850)) ([18dcc3a](https://github.com/tambo-ai/tambo/commit/18dcc3af02e147c2259f7e9dfd0aee800c03d97a))
+
 ## [0.128.0](https://github.com/tambo-ai/tambo/compare/web-v0.127.0...web-v0.128.0) (2026-01-22)
 
 
