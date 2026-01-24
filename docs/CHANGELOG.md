@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.23.2](https://github.com/tambo-ai/tambo/compare/docs-v1.23.1...docs-v1.23.2) (2026-01-24)
+
+
+### Documentation
+
+* **react-sdk:** remove dependency on zod ([#1850](https://github.com/tambo-ai/tambo/issues/1850)) ([18dcc3a](https://github.com/tambo-ai/tambo/commit/18dcc3af02e147c2259f7e9dfd0aee800c03d97a))
+* validate Groq Llama-3.1-8B ([#1892](https://github.com/tambo-ai/tambo/issues/1892)) ([792cda5](https://github.com/tambo-ai/tambo/commit/792cda59ea90e0a8da54ef83c8caf0a2b1e46f7d))
+
+
+### Code Refactoring
+
+* **ui-registry:** migrate consumers to centralized component registry ([#1872](https://github.com/tambo-ai/tambo/issues/1872)) ([1a74aeb](https://github.com/tambo-ai/tambo/commit/1a74aeb1255e612a651cfa303cd972c7eb8df115))
+
 ## [1.23.1](https://github.com/tambo-ai/tambo/compare/docs-v1.23.0...docs-v1.23.1) (2026-01-22)
 
 
