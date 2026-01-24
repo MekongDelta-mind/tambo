@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.35.1](https://github.com/tambo-ai/tambo/compare/showcase-v0.35.0...showcase-v0.35.1) (2026-01-24)
+
+
+### Bug Fixes
+
+* **showcase:** preserve per-user context key ([#1878](https://github.com/tambo-ai/tambo/issues/1878)) ([944634d](https://github.com/tambo-ai/tambo/commit/944634db2a4c65eb77eefd997e905bb75bd23d64))
+
+
+### Miscellaneous Chores
+
+* **react:** bump to new @tambo-ai/typescript-sdk ([#1864](https://github.com/tambo-ai/tambo/issues/1864)) ([7643415](https://github.com/tambo-ai/tambo/commit/76434157aeaa2f4fb6501702403262025614931b))
+* **sdk:** Bump again: get SSE streaming types ([#1870](https://github.com/tambo-ai/tambo/issues/1870)) ([e6fbb44](https://github.com/tambo-ai/tambo/commit/e6fbb4432bc3ba07fe8b660206a1c514ffb98ea8))
+
+
+### Code Refactoring
+
+* **ui-registry:** migrate consumers to centralized component registry ([#1872](https://github.com/tambo-ai/tambo/issues/1872)) ([1a74aeb](https://github.com/tambo-ai/tambo/commit/1a74aeb1255e612a651cfa303cd972c7eb8df115))
+
 ## [0.35.0](https://github.com/tambo-ai/tambo/compare/showcase-v0.34.1...showcase-v0.35.0) (2026-01-21)
 
 
