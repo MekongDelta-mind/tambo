@@ -1,5 +1,30 @@
 # Changelog
 
+## [0.132.0](https://github.com/tambo-ai/tambo/compare/api-v0.131.0...api-v0.132.0) (2026-01-24)
+
+
+### Features
+
+* **api:** implement component state update endpoint (Phase 4) ([#1844](https://github.com/tambo-ai/tambo/issues/1844)) ([32c2425](https://github.com/tambo-ai/tambo/commit/32c242517f36b8e33a15ce78e87131cdca94a8c2))
+
+
+### Bug Fixes
+
+* **api:** add ApiDiscriminatedUnion decorator to eliminate boilerplate ([#1860](https://github.com/tambo-ai/tambo/issues/1860)) ([9834ce6](https://github.com/tambo-ai/tambo/commit/9834ce68d8fbe354dbf4bdf8a9629ac64f3dabaf))
+* **api:** remove projectId from V1 public API thread DTO ([#1897](https://github.com/tambo-ai/tambo/issues/1897)) ([76ba68c](https://github.com/tambo-ai/tambo/commit/76ba68ce097b00b807ec47a7d9033e88d00d4778))
+* **cli:** optimization to ScrollableMessageContainer [#1706](https://github.com/tambo-ai/tambo/issues/1706) ([#1887](https://github.com/tambo-ai/tambo/issues/1887)) ([3e05258](https://github.com/tambo-ai/tambo/commit/3e052587b3e016439206d229b433fc0c2c666ba2))
+* update openapi name to tambo ([#1873](https://github.com/tambo-ai/tambo/issues/1873)) ([7433605](https://github.com/tambo-ai/tambo/commit/74336052746987f6e725504c197c6f931e80416c))
+
+
+### Miscellaneous Chores
+
+* **deps:** bump the ag-ui group with 2 updates ([#1833](https://github.com/tambo-ai/tambo/issues/1833)) ([dacef94](https://github.com/tambo-ai/tambo/commit/dacef94c7e5d4ca917f6232542fd93cd84cfd4fb))
+
+
+### Code Refactoring
+
+* **api:** type-narrow StorageConfigService.hasStorageConfig [#1770](https://github.com/tambo-ai/tambo/issues/1770) ([#1854](https://github.com/tambo-ai/tambo/issues/1854)) ([4d64067](https://github.com/tambo-ai/tambo/commit/4d6406701f5cb347f6fcad87dadcec591733ad8f))
+
 ## [0.131.0](https://github.com/tambo-ai/tambo/compare/api-v0.130.0...api-v0.131.0) (2026-01-21)
 
 
