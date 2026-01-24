@@ -53,6 +53,7 @@ jobs:
         uses: ./.github/actions/setup-tools
 
       - name: Run Tests
+        # Have to use extra -- -- because of turbo wrapping
         run: npm run test -- -- --coverage
 
       - name: Upload coverage to Codecov
